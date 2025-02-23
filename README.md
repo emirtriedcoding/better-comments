@@ -1,4 +1,8 @@
- "better-comments.tags": [
+### Better Comments Configuration
+
+```json
+{
+  "better-comments.tags": [
     {
       "tag": "TODO:",
       "color": "#EA580C",
@@ -41,4 +45,5 @@
       "strikethrough": false,
       "backgroundColor": "#EAB308"
     }
-  ],
+  ]
+}
